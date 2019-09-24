@@ -73,7 +73,6 @@ namespace TestApp1
 
             }
 
-            //string fileName = filename1;
             if (result == 1)
             {
                 FILEITEM.ParseFileWindows(fileName, this);
