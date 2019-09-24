@@ -104,9 +104,6 @@ namespace TestApp1
 
         private int checkType(String textFile)
         {
-            //Console.WriteLine(fileName); 123
-            // Read file using StreamReader. Reads file line by line
-            //Console.WriteLine(textFile);
             Console.WriteLine(textFile);
             int result = 0;                 // 1 - Win, 2 - Unix, 3 - Invalid file
             using (StreamReader file = new StreamReader(textFile))
