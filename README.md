@@ -8,5 +8,5 @@ The tools takes a .txt file as input. The text file has to be created with the b
 
 **For windows:**  *pwd;ls -laR > directorylisting.txt*
 
-**For *nix:**     *dir /s /a > directorylisting.txt*
+**For Linux:**     *dir /s /a > directorylisting.txt*
 
